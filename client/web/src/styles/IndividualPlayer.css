@@ -1,0 +1,15 @@
+.image
+{
+    height: "200" px;
+    width: '200' px;
+}
+
+.CardImage
+{
+    width: 25%;
+}
+
+Card.Header
+{
+    font-size: 80px;
+}
